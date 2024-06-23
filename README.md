@@ -5,7 +5,7 @@
 ##### 給与明細書 
 - Payroll(給与明細書照会システム)にて6月分給与明細書を照会している動画です。
   - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun24-p1.mp4
--※私の社員番号がこのような数字であることを確かめるにはアマゾンの社内用パソコンにて下記にアクセスしてみて下さい: 
+- ※私の社員番号がこのような数字であることを確かめるにはアマゾンの社内用パソコンにて下記にアクセスしてみて下さい: 
   - https://fclm-portal.amazon.com/employee/activityDetails/ppa?employeeId=hirosuk&warehouseId=KIX3
 - ![jun2024](jun2024.jpg)
 
