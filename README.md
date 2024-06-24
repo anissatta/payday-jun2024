@@ -2,6 +2,14 @@
 
 ### June 25, 2024 
 
+##### 銀行ＡＴＭでの通帳記入 
+- カメラ1: 
+  - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-b1.mp4
+- カメラ2: 
+  - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-b2.mp4
+- カメラ3: 
+  - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-b3.mp4
+
 ##### コンビニＡＴＭでの残高照会 
 - カメラ1
   - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-l1.mp4
