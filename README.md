@@ -1,5 +1,13 @@
 # payday-jun2024
 
+### June 25, 2024 
+
+##### コンビニＡＴＭでの残高照会 
+- カメラ1
+  - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-l1.mp4
+- カメラ2
+  - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-l2.mp4
+
 ### June 24, 2024 
 
 ##### 給与明細書 
