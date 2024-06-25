@@ -2,6 +2,12 @@
 
 ### June 25, 2024 
 
+##### 記入後の預金通帳 
+- カメラ1: 
+  - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-n1.mp4
+- カメラ2: 
+  - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-n2.mp4
+
 ##### 銀行ＡＴＭでの通帳記入 
 - カメラ1: 
   - https://kangdaegae.web.fc2.com/misc/ipoint/2024/jun25-b1.mp4
