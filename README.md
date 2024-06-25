@@ -1,5 +1,7 @@
 # payday-jun2024
 
+(This repo is now archived) 
+
 ### June 25, 2024 
 
 ##### 記入後の預金通帳 
